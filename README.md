@@ -1,3 +1,3 @@
 # synapse
 synapse oops gui 
-Author= Prisha Kashyap
+Author= Prisha Kashyap (A7)
